@@ -1,0 +1,338 @@
+[
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "FUNDO MUNICIPAL DE SAÚDE",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 18.294,97",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "GABINETE CIVIL",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 3.630,00",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "GABINETE CIVIL",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.837,66",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "05/01/2015",
+                "R$ 1.560,59",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.998,89",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 12.591,39",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 848,83",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "11/02/2015",
+                "R$ 500.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "15/04/2015",
+                "R$ 3.664,03",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "01/06/2015",
+                "R$ 300.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 8.184,23",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 9.592,38",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 931,83",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE LIMPEZA URBANA",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.436,56",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE MEIO AMBIENTE E DESENVOLVIMENTO URBANO",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.728,09",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE OBRAS PÚBLICAS E SANEAMENTO",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.122,35",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANÇAS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.622,84",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANÇAS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "10/02/2015",
+                "R$ 66,83",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE SERVIÇOS URBANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.885,61",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 392,21",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE TRIBUTAÇÃO",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 1.149,47",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E LAZER",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "06/01/2015",
+                "R$ 89,44",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    }
+]

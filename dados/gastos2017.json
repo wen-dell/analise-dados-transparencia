@@ -1,0 +1,436 @@
+[
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "FUNDO MUNICIPAL DE SAÚDE",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 150.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "FUNDO MUNICIPAL DE SAÚDE",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "15/02/2017",
+                "R$ 27.600,78",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "FUNDO MUNICIPAL DE SAÚDE",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "01/08/2017",
+                "R$ 150.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "GABINETE CIVIL",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 50.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 250.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 2.102,65",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 111,03",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 2.856,51",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 2.512,73",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 1.411,41",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 476,58",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 687,28",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 1.510,51",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 1.362,41",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 1.622,28",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 1.169,31",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 1.268,21",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 16.279,25",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "11/01/2017",
+                "R$ 9.851,24",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 2.891,11",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 9.696,74",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "DESPESAS DE EXERCICIOS ANTERIORES",
+                "12/01/2017",
+                "R$ 24.602,74",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "25/10/2017",
+                "R$ 290.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 100.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 120.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 20.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE LIMPEZA URBANA",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 25.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE MEIO AMBIENTE E DESENVOLVIMENTO URBANO",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 20.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE OBRAS PÚBLICAS E SANEAMENTO",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 20.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANÇAS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 20.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANÇAS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/05/2017",
+                "R$ 10.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE SERVIÇOS URBANOS",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 35.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE TRÂNSITO E TRANSPORTES",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 20.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE TRIBUTAÇÃO",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 20.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    },
+    {
+        "header": [
+            [
+                "Unidade",
+                "Despesa",
+                "Data",
+                "R$ Valor",
+                "Credor"
+            ]
+        ],
+        "data": [
+            [
+                "SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E LAZER",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "02/01/2017",
+                "R$ 2.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ],
+            [
+                "SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E LAZER",
+                "OUTROS SERVICOS DE TERCEIROS - PJ",
+                "01/09/2017",
+                "R$ 2.000,00",
+                "TELEMAR NORTE LESTE S/A"
+            ]
+        ]
+    }
+]
